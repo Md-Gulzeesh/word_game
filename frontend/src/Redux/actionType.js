@@ -1,0 +1,2 @@
+export const STORE_CURRENT_PLAYER = "STORE_CURRENT_PLAYER"; 
+export const GET_PLAYERS = "GET_PLAYERS"; 
